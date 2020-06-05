@@ -1,1 +1,4 @@
-SELECT * FROM cargos
+USE editorial
+SELECT 
+	* 
+FROM cargos

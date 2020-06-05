@@ -1,1 +1,4 @@
-select top (5) * from ventas
+USE editorial
+SELECT TOP 
+	5 * 
+FROM ventas

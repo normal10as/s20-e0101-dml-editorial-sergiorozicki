@@ -1,1 +1,4 @@
-SELECT DISTINCT pais FROM editoriales
+USE editorial
+SELECT DISTINCT 
+	pais 
+FROM editoriales

@@ -1,1 +1,4 @@
-SELECT  DISTINCT autor_nombre from autores
+USE editorial
+SELECT DISTINCT 
+	autor_nombre 
+FROM autores
